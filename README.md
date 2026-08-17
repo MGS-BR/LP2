@@ -19,26 +19,26 @@ Cada pasta contém um `.zip` com a solução do Visual Studio (`.sln` + projeto 
 
 ## 🧩 Descrição das atividades
 
-### Atividade 1 — `Pvolume`
+### Atividade 1 — [`Pvolume`](https://github.com/MGS-BR/LP2/blob/main/Atividade1/Pvolume.zip)
 Formulário WinForms que calcula o **volume de um cilindro** a partir do raio e da altura informados pelo usuário, com validação de campos (impede valores não numéricos ou ≤ 0) via eventos `Validated` e `TryParse`.
 
-### Atividade 2 — `Pcalc`
+### Atividade 2 — [`Pcalc`](https://github.com/MGS-BR/LP2/blob/main/Atividade2/Pcalc.zip)
 **Calculadora simples** com as quatro operações básicas (soma, subtração, multiplicação e divisão), tratamento de divisão por zero e validação de entradas usando `ErrorProvider`.
 
-### Atividade 3 — `PIMC`
+### Atividade 3 — [`PIMC`](https://github.com/MGS-BR/LP2/blob/main/Atividade3/PIMC.zip)
 Calculadora de **Índice de Massa Corporal (IMC)**: valida peso e altura, calcula o IMC e classifica o resultado (Magreza, Normal, Sobrepeso, Obesidade, Obesidade Grave).
 
-### Atividade 4 — `PTriangulos`
+### Atividade 4 — [`PTriangulos`](https://github.com/MGS-BR/LP2/blob/main/Atividade4/PTriangulos.zip)
 Verifica se três lados informados formam um **triângulo válido** (desigualdade triangular) e classifica o triângulo em Equilátero, Isósceles ou Escaleno.
 
-### Atividade 5 — `PMetodos`
+### Atividade 5 — [`PMetodos`](https://github.com/MGS-BR/LP2/blob/main/Atividade5/PMetodos.zip)
 Aplicação **MDI (Multiple Document Interface)** com um formulário principal e menu que abre sub-formulários (`FrnExercicio2` a `FrnExercicio5`), cobrindo:
 - Comparação e manipulação de strings (`Insert`, `Replace`);
 - Inversão de string com `Array.Reverse`;
 - Contagem de números, letras e espaços em branco em um texto;
 - Sorteio de número aleatório dentro de um intervalo (`Random`).
 
-### Atividade 8 — `PMatrizes`
+### Atividade 8 — [`PMatrizes`](https://github.com/MGS-BR/LP2/blob/main/Atividade8/PMatrizes.zip)
 Exercícios com **vetores, matrizes multidimensionais e `ArrayList`**, usando `Interaction.InputBox` (Microsoft.VisualBasic) para entrada de dados:
 - Preenchimento e inversão de um vetor de 20 posições;
 - Remoção de item de uma `ArrayList` de nomes;
@@ -46,7 +46,7 @@ Exercícios com **vetores, matrizes multidimensionais e `ArrayList`**, usando `I
 - Contagem de caracteres em nomes digitados (`frmExercicio4`);
 - Correção de gabarito de prova comparando respostas de 3 alunos × 10 questões (`frmExercicio5`).
 
-### Prova — `PFilme02`
+### Prova — [`PFilme02`](https://github.com/MGS-BR/LP2/blob/main/Prova/PFilme02.zip)
 Exercício avaliativo (prova): coleta notas de **2 pessoas para 2 filmes** (matriz 2×2) com validação de intervalo (0–10) e calcula a média de avaliação de cada filme.
 
 ## 🛠️ Tecnologias
